@@ -11,3 +11,8 @@ final TextStyle bodyNormal = GoogleFonts.poppins(
   fontSize: 16,
   color: Color(0xff0E1954),
 );
+
+final TextStyle bodyMedium = GoogleFonts.poppins(
+  fontSize: 18,
+  fontWeight: FontWeight.w600,
+);
